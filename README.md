@@ -10,4 +10,4 @@ Dependencies
   
 Syntax
 ------
-`python parse.py MembersRegister.pdf`
+`python parse.py MembersRegister.pdf [--dropall]`
